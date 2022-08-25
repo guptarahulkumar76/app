@@ -6,6 +6,7 @@ function Nav() {
     <>
       <nav>
         <NavLink to="/">Home</NavLink>
+        <NavLink to="/space">Space</NavLink>
       </nav>
     </>
   )
